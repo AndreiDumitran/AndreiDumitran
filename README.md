@@ -53,7 +53,7 @@
 
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreidumitran)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreidumitran&show_icons=true&theme=dark)
 
 ###
 
