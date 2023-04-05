@@ -1,8 +1,10 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://media.licdn.com/dms/image/D5616AQGErtphjYQ1nQ/profile-displaybackgroundimage-shrink_350_1400/0/1663476083541?e=1678924800&v=beta&t=IOqnR8FXldkbtOY23B_B4B6SUjo1eVC9U7MArFAIEYY" alt="cover" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Andrei</h1>
 
 - 🔭 I’m currently working on **developing myself as a full-stack developer.**
-
-- 🌱 I’m currently learning **.NET on Udemy.**
 
 - 👯 I’m looking to collaborate on **any project.**
 
